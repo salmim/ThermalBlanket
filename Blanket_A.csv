@@ -1,0 +1,5 @@
+Lat(Deg),Lat(Dec Min),Long(Deg),Long(Dec Min),Blanket,Dive number,Date Deploy (Julian day),Deployed Time (Hour),Time Dep (Min),Date Recovered (Julian day),Time Rec (Hour),Time Rec (Min)
+47,56.91325131,-128,54.06264663,A,69,1,197,17,29,198,0,55
+47,56.96776358,-128,54.04968571,A,69,2,198,2,50,198,10,0
+47,56.8657858,-128,54.10934182,A,69,3,198,13,20,198,21,55
+47,56.80426854,-128,54.13758122,A,69,4,198,22,30,199,3,35
