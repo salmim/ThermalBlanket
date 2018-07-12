@@ -2,7 +2,7 @@
 # ANTARES Temperature logger attached to the top and bottom of the Thermal Blanket 
 # heat flow instrument
 #
-# See Salmi et al., 2013 for a more detailed description of the Thermal Blanket
+# See Salmi et al., 2014 for a more detailed description of the Thermal Blanket
 # 
 # Data should be downloaded from the sensor to a *.dat file.
 #
