@@ -11,6 +11,8 @@ Required files for processing of the Thermal Blanket are:
 
 2) Offset correction file. The thermistors will not read exactly the same temperature and any offset will introduce a bias into the heat flow measurement. The offset calibrations are the required temperature shifts that will remove and bias in the readings. 
 
+The file format should be rows of Logger ID (found on the side of the thermistor), offset calibration (degree C)
+
 An example offset correction file has been included in the Repository titled offsets.csv.
 
 3) Deployment meta data - A csv file for each individual Blanket that include all deployments during the survey.
