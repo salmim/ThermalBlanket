@@ -2,7 +2,7 @@
 
 This respository includes tools for processing data collected using the Thermal Blanket heat flow instrument.
 
-Please see Salmi et al., 2013 for more information about the Thermal Blanket processing and construction. 
+Please see Salmi et al., 2014 for more information about the Thermal Blanket processing and construction. 
 
 Generate_GoldenNugget.py - loads the raw temperature records from the ANTARES data logger and writes out both a csv and matlab mat for further processing. 
 
